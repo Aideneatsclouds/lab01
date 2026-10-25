@@ -3,7 +3,6 @@
 Student: Yaaswiny Abbiramavally Thinaharan , A24CS0213
 
 ## Setup
-<Write the exact commands that create and activate the virtual environment and install requirements.txt. Give the Windows command as well as the Linux/macOS one.>
 
 **Windows (PowerShell):**
 ```powershell
